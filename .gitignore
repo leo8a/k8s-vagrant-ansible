@@ -1,0 +1,6 @@
+.idea/
+.vagrant/
+
+*.log
+*/join-command
+*/node-playbook.retry

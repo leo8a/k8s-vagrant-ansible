@@ -1,5 +1,5 @@
 # k8s-vagrant-ansible
-The poroect provides helps to set up a simple Kubernetes cluster on one machine. The cluster has 3 nodes running as VirtualBox instances - one master and two workers. It is useful for testing purposes specially for the cases where more than one node is required.
+The project provides helps to set up a simple Kubernetes cluster on one machine. The cluster has 3 nodes running as VirtualBox instances - one master and two workers. It is useful for testing purposes specially for the cases where more than one node is required.
 
 The code is mainly taken from this article: https://kubernetes.io/blog/2019/03/15/kubernetes-setup-using-ansible-and-vagrant/ hovewer some corrections were also made.
 
